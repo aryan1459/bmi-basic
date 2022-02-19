@@ -1,0 +1,43 @@
+*{
+  font-family:'Times New Roman', Times, serif;
+}
+.heading{
+  color:#3d5a80;
+  text-align: center;
+  font-size: large;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: 400;
+}
+h1{
+  font-family:'Courier New', Courier, monospace;
+  color:#3d5a80;
+  font-weight: 700;
+}
+
+.paragraph{
+  text-align: left;
+}
+
+ body{
+   background-color: #ced4da;
+ }
+
+ #footer{
+  position:relative;
+  bottom:-48px;
+}
+
+.img2{
+  float: right;
+  height:"100";
+  width:"100";
+}
+
+.img1{
+ 
+  height:"100";
+  width:"100";
+  float:right;
+}
+
+
